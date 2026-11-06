@@ -1,0 +1,9 @@
+{
+  "appId": "com.gamebuddy.app",
+  "appName": "GameBuddy",
+  "webDir": "www",
+  "server": {
+    "url": "https://gamebuddy-cr2t.onrender.com",
+    "cleartext": false
+  }
+}
